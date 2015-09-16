@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.070454
+#+DATE: 2015-08-30 20:49:00.609030
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_009-0040c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第九¶
+《阿毘達磨大毘婆沙論》卷第九¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -190,11 +189,8 @@
 後智蘊中所說邪智是勝義者。今說世俗故¶
 不相違。¶
 
-:PROPERTIES:
-:head: 《發智大毘婆沙論》雜蘊第一中智納息¶
-第二之一
-:END:
-¶
+《發智大毘婆沙論》雜蘊第一中智納息¶
+第二之一¶
 
 頗有一智知一切法耶。如是等章及解章¶
 義。既領會已。次應廣釋。問何故作此論。答¶

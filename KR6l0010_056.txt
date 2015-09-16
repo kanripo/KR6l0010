@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.509672
+#+DATE: 2015-08-30 20:49:01.947880
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_056-0288a> 
 #+PROPERTY: JUAN 56
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第五十¶
+《阿毘達磨大毘婆沙論》卷第五十¶
 六¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 結蘊第二中一行納息第二之一
-:END:
-¶
+結蘊第二中一行納息第二之一¶
 
 有九結。謂愛結乃至慳結。若於此事有愛¶
 結繫亦有恚結繫耶。如是等章及解章義。¶

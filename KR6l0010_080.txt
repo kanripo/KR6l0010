@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.218767
+#+DATE: 2015-08-30 20:49:02.848947
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_080-0411b> ¶¶¶¶
 #+PROPERTY: JUAN 80
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第八十¶
+《阿毘達磨大毘婆沙論》卷第八十¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -434,8 +433,7 @@
 喜樂。第二靜慮具足住。是名第二天道尋伺
 <pb:KR6l0010_T_080-0416a>¶
 滅者。問得第二靜慮時。總滅初靜慮一切¶
-法。何故但說尋伺滅耶。答以尋伺為上¶
-首。總滅初靜慮故作是說。復次尋伺難斷¶
+法。何故但說尋伺滅耶。答以尋伺為上首。總滅初靜慮故作是說。復次尋伺難斷¶
 難破難可越度。是故偏說。復次尋伺多諸¶
 過患。熾盛堅牢。是故偏說。復次尋伺離初靜¶
 慮染時。極為障礙留難繫縛。如暴獄卒故¶

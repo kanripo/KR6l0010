@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.823145
+#+DATE: 2015-08-30 20:49:04.823478
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_131-0679a> ¶¶¶¶¶
 #+PROPERTY: JUAN 131
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 三十一¶
 ¶
 五百大阿羅漢等造¶
@@ -151,10 +150,7 @@
 槃界。佛依如是種種因緣。說二種施果無。¶
 差別。¶
 
-:PROPERTIES:
-:head: 大種蘊第五中緣納息第二之一
-:END:
-¶
+大種蘊第五中緣納息第二之一¶
 
 大種與大種為幾緣。如是等章。及解章義。¶
 既領會已。當廣分別。問何故作此論。答欲¶

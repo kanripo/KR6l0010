@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.907821
+#+DATE: 2015-08-30 20:49:06.379711
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_163-0823c> ¶¶¶¶
 #+PROPERTY: JUAN 163
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 六十三¶
 ¶
 五百大阿羅漢等造¶
@@ -24,7 +23,7 @@
 失。順住分者。謂若住此多分不退失不勝¶
 進。順勝進分者。謂若住此多分勝進。順決擇¶
 分者。謂若住此多分能入正性離生。復次順¶
-退分者。與諸煩惱相𣣋相雜煩惱無間此¶
+退分者。與諸煩惱相[夌*欠]相雜煩惱無間此¶
 現前此無間煩惱現前。順住分者。能觀下地¶
 為麁苦障而生厭背。能觀自地為靜妙離¶
 而樂安住。順勝進分者。能觀自地為麁苦¶

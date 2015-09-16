@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:06.208033
+#+DATE: 2015-08-30 20:49:07.823210
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0010_T_200-0998c> ¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T@QISHA
+#+PROPERTY: LASTPB <pb:KR6l0010_T_200-0998c> 
 #+PROPERTY: JUAN 200
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第二百¶
+《阿毘達磨大毘婆沙論》卷第二百¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -406,7 +405,7 @@
 遍身皆受不安隱苦故。復次彼見世間憂¶
 及喜時。流淚毛竪顏色怡悅故。復次彼見世¶
 間皆於身起我名想故。有餘師說。彼見世¶
-間守宮𧈼蜴等尾。若斷時各能動轉故。大¶
+間守宮[虫*片]蜴等尾。若斷時各能動轉故。大¶
 德說曰。彼見世間於有色根身說有情形¶
 相。有情言音。有情好醜。有情威儀。有情作業¶
 等故。由如是等種種因緣。諸外道說命者¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.131021
+#+DATE: 2015-08-30 20:49:06.737240
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_170-0855a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 170
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 七十¶
 ¶
 五百大阿羅漢等造¶
@@ -85,8 +84,7 @@
 相應願智所依。依淨非想非非想處作四¶
 句者。有等至以淨非想非非想處為因。而¶
 非所緣。此有一。謂滅想受解脫。有等至以¶
-淨非想非非想處為所緣。而非因此有十¶
-九。謂淨無漏四靜慮。三無色。及三無色解脫。¶
+淨非想非非想處為所緣。而非因此有十九。謂淨無漏四靜慮。三無色。及三無色解脫。¶
 自地味相應。願智所依。有等至以淨非想¶
 非非想處為因。亦作所緣。此有五。謂淨非¶
 想非非想處。即彼解脫二無礙解。漏盡通所¶

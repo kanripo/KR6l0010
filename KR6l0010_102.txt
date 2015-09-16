@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.914358
+#+DATE: 2015-08-30 20:49:03.686899
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_102-0526a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 102
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 二¶
 ¶
 五百大阿羅漢等造¶
@@ -48,7 +47,7 @@
 動耶。答以體殊勝故名不動。如今世間殊¶
 勝飲食衣服嚴具說名不動。不為劣物格¶
 量轉故。復次貪等煩惱令諸有情身心輕躁。¶
-令諸善根生䩕離散故名為動。不時解脫¶
+令諸善根生[革*卬]離散故名為動。不時解脫¶
 阿羅漢不為如是煩惱所動故名不動。復¶
 次貪等煩惱。能令有情於諸分位勝劣不¶
 定故名為動。不時解脫阿羅漢不為如是¶

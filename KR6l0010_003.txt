@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:59.906391
+#+DATE: 2015-08-30 20:49:00.439733
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_003-0010c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第三¶
+《阿毘達磨大毘婆沙論》卷第三¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -247,7 +246,7 @@
 諸有情墮諸惡趣受諸劇苦。譬如生食久¶
 在身中。能作種種極苦惱事。是故此惑說名¶
 為生。見道能滅故名離生。入正性言。亦如¶
-前說。復次有身見等剛強難伏。如獸𢤱悷¶
+前說。復次有身見等剛強難伏。如獸[怡-台+龍]悷¶
 故說名生。見道能滅故名離生。入正性言¶
 亦如前說。復次此中生名顯異生性。能起¶
 暴惡諸惑業故。見道捨彼故說離生。餘如¶

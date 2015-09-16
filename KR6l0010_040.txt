@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.027130
+#+DATE: 2015-08-30 20:49:01.510622
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6l0010_T_040-0205a> 
 #+PROPERTY: JUAN 40
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第四十¶
+《阿毘達磨大毘婆沙論》卷第四十¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -215,7 +214,7 @@
 明難起厭故。問尊者無滅何故令天轉作¶
 青黃赤白四色。答欲觀諸色變壞相故。復¶
 次色相移轉易起厭故。復次青色隨順青瘀¶
-想故。黃色隨順膿䑌想故。赤色隨順異赤¶
+想故。黃色隨順膿[月*闌]想故。赤色隨順異赤¶
 想故。白色隨順駭骨想故。復次青黃赤白是¶
 眾色本。又無諍論故令轉變。歷試自心能¶
 起厭不。尊者無滅知彼色妙。不能觀之起¶
