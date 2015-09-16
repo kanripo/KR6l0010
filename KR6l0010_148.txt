@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.416162
+#+DATE: 2015-08-30 20:48:39.312006
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_148-0755c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 148
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 四十八¶
 ¶
 五百大阿羅漢等造¶
@@ -133,7 +132,7 @@
 團置於輪上。隨意埏埴成種種器。於工巧¶
 法而不相違。如是善作論者以聞思慧。行¶
 所知境照了除癡。然後隨欲造種種論。於¶
-諸法性亦不相違。有說。唯法類智互不相¶
+諸法性亦不相違。有說。惟法類智互不相¶
 攝。亦俱遍緣不相攝境。謂有漏無漏有為無¶
 為四聖諦法。有說。以法類智攝一切無漏¶
 智盡是彼根本。有說。法類二智作分齊緣。¶
