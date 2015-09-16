@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.360953
+#+DATE: 2015-08-30 20:49:14.546660
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_117-0607a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 117
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 一十七¶
 ¶
 五百大阿羅漢等造¶
@@ -206,7 +205,7 @@
 #+BEGIN_VERSE
 「　諸盤迴屈曲
 　不平直不正¶
-　嶮坑㵎稠林
+　嶮坑[澗-日+月]稠林
 　是皆喻其諂
 #+END_VERSE
 」¶

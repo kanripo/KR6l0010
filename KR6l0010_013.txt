@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.197408
+#+DATE: 2015-08-30 20:49:10.723372
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_013-0061c> 
 #+PROPERTY: JUAN 13
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第十三¶
+《阿毘達磨大毘婆沙論》卷第十三¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -164,7 +163,7 @@
 鼻根極微住鼻孔中猶如人爪。舌根極微¶
 住在舌上猶如剃刀。身根極微隨身而住。
 <pb:KR6l0010_T_013-0063b>¶
-猶如戟矟。女根極微住女形中猶如鼓𣞙。¶
+猶如戟矟。女根極微住女形中猶如鼓[壴*桑]。¶
 男根極微住男形上猶如指環。佛於經中。¶
 亦以此喻說諸根相。眼根極微。有時一切¶
 是同分。有時一切是彼同分。有時一分是同¶

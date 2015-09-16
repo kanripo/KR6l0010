@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.762575
+#+DATE: 2015-08-30 20:49:17.152454
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_188-0940c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 188
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 八十八¶
 ¶
 五百大阿羅漢等造¶
@@ -111,8 +110,7 @@
 緣行相緣集諦起次作滅。乃至離行相¶
 緣滅諦起次作道。乃至出行相緣道諦起。¶
 從聞所成法念住無間。有思所成身念住¶
-作十二行相緣三諦起。從此無間有受¶
-念住作十二行相緣三諦起。從此無間有¶
+作十二行相緣三諦起。從此無間有受念住作十二行相緣三諦起。從此無間有¶
 心念住作十二行相緣三諦起從此無間¶
 有法念住作十六行相緣四諦起。從思所¶
 成法念住有修所成法念住先作無常。乃¶

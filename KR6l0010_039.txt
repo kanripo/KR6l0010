@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.002842
+#+DATE: 2015-08-30 20:49:11.672369
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_039-0199c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 39
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第三十¶
+《阿毘達磨大毘婆沙論》卷第三十¶
 九¶
 ¶
 五百大阿羅漢等造¶
@@ -349,10 +348,7 @@
 說。有色有情生時名生。死時名死。無色有¶
 情生時名出。死時名沒。是謂生出死沒差別。¶
 
-:PROPERTIES:
-:head: 雜蘊第一中無義納息第七之一
-:END:
-¶
+雜蘊第一中無義納息第七之一¶
 
 如世尊說。¶
 

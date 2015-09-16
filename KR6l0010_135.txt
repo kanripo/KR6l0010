@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.957436
+#+DATE: 2015-08-30 20:49:15.119027
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_135-0696b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 135
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 三十五¶
 ¶
 五百大阿羅漢等造¶
@@ -232,7 +231,7 @@
 心別祈水火。後住一心令其俱發。前二心¶
 是轉。後一心隨轉。有說。二心所作。問云何¶
 一時有二心俱起。答由勝定力水火二心速¶
-疾迴轉。似俱時發。如物㩌子。左手放光右¶
+疾迴轉。似俱時發。如物[打-丁+費]子。左手放光右¶
 手隨言分僧臥具。若時發表無容放光。若¶
 時放光無容發表。由勝定力光表二心速¶
 疾迴轉。似俱時發。水火二心應知亦爾¶

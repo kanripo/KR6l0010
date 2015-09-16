@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.738426
+#+DATE: 2015-08-30 20:49:11.237666
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_030-0153a> 
 #+PROPERTY: JUAN 30
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第三十¶
+《阿毘達磨大毘婆沙論》卷第三十¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -462,9 +461,8 @@
 果入因是死生智力。如因果如是細麁不¶
 現見。現見遠近亦爾。問無表業云何知。答從¶
 果入因從麁入細。從現見入不現見。從¶
-近入遠。如是知。問宿住隨念智死生智二
-<pb:KR6l0010_T_030-0158a>¶
-乘亦有。何故唯佛建立力耶。答前說不可屈¶
+近入遠。如是知。問宿住隨念智死生智二乘
+<pb:KR6l0010_T_030-0158a>亦有。何故唯佛建立力耶。答前說不可屈¶
 義等是力義。二乘雖有而無此義故不名¶
 力如舍利子雖入第四靜慮而不知人當¶
 所生處及所從來等事。問二乘亦有漏永¶

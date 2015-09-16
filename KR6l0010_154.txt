@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.594887
+#+DATE: 2015-08-30 20:49:15.836347
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_154-0782a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 154
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 五十四¶
 ¶
 五百大阿羅漢等造¶
@@ -138,8 +137,7 @@
 作四句。有法是心等無間。非心無間謂¶
 除滅定初剎那。及餘有心位諸餘滅定剎那。¶
 及出滅定心心所法。有法是心無間。非心等¶
-無間。謂滅定初剎那。及餘有心位。彼生老¶
-住無常。有法是心等無間。亦心無間。謂滅定¶
+無間。謂滅定初剎那。及餘有心位。彼生老住無常。有法是心等無間。亦心無間。謂滅定¶
 初剎那。及餘有心位心心所法。有法非心等¶
 無間。亦非心無間。謂除滅定初剎那。及餘¶
 有心位。彼生老住無常。諸餘滅定剎那。及¶

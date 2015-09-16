@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.948797
+#+DATE: 2015-08-30 20:49:12.816467
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_071-0366a> ¶¶
 #+PROPERTY: JUAN 71
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第七十¶
+《阿毘達磨大毘婆沙論》卷第七十¶
 一¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 結蘊第二中十門納息第四之一
-:END:
-¶
+結蘊第二中十門納息第四之一¶
 
 二十二根。乃至九十八隨眠。如是四十二章¶
 及解章義既領會已。應廣分別。二十二根者。¶

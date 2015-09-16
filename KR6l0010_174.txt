@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.262390
+#+DATE: 2015-08-30 20:49:16.668998
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_174-0873c> ¶¶¶
 #+PROPERTY: JUAN 174
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 七十四¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 定蘊第七中不還納息第四之一
-:END:
-¶
+定蘊第七中不還納息第四之一¶
 
 有五不還。謂中般涅槃。生般涅槃。有行般¶
 涅槃。無行般涅槃。上流往色究竟。為五攝¶
