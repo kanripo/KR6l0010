@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.003248
+#+DATE: 2015-08-30 20:49:31.682485
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_105-0541c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 105
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 五¶
 ¶
 五百大阿羅漢等造¶
@@ -439,10 +438,7 @@
 得。雖是彼因而非勝進故不名修。不由¶
 現在得修彼未來。故但由退故彼得現前。¶
 
-:PROPERTIES:
-:head: 智蘊第三中修智納息第四之一
-:END:
-¶
+智蘊第三中修智納息第四之一¶
 
 有八智。謂法智乃至道智。如是等章及解章¶
 義既領會已。次應廣釋。問何故尊者依此八¶

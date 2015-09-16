@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.433209
+#+DATE: 2015-08-30 20:49:32.159100
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_119-0618a> ¶¶
 #+PROPERTY: JUAN 119
 ¶
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 一十九¶
 ¶
 五百大阿羅漢等造¶
@@ -127,9 +126,9 @@
 罪。一起加行二果究竟。雖起加行果不究¶
 竟。彼不得無間罪。雖果究竟不起加行。¶
 亦不得無間罪。雖起加行果不究竟者謂¶
-如有人欲害其母。母覺知已藏穀𧂐中。有¶
+如有人欲害其母。母覺知已藏穀[卄/積]中。有¶
 餘女人在母寢處。其人既至謂是己母以¶
-刀害之。害已方更往穀𧂐中揩拭刀刃刀¶
+刀害之。害已方更往穀[卄/積]中揩拭刀刃刀¶
 觸母身因茲喪命。起加行時果未究竟。果¶
 究竟時已無加行。由此不成無間之罪。有
 <pb:KR6l0010_T_119-0619b>¶

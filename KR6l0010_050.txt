@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.337184
+#+DATE: 2015-08-30 20:49:30.000207
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_050-0257a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 50
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第五十¶
+《阿毘達磨大毘婆沙論》卷第五十¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -197,8 +196,7 @@
 窮。無威德者由多嫉妬。極貧窮者由多慳¶
 悋。若無威德極貧窮者。父母兄弟妻子僮僕¶
 尚輕蔑之。況非親者。故十纏中立二為結。¶
-復次嫉慳於彼欲界有情猶如獄卒及防¶
-捍者。如有罪人縶在囹圄二卒禁守不令¶
+復次嫉慳於彼欲界有情猶如獄卒及防捍者。如有罪人縶在囹圄二卒禁守不令¶
 得出。復有清潔莊嚴園林二人防捍不令¶
 得入。囹圄者喻惡趣。園林者喻人天。獄卒¶
 防捍喻嫉與慳。欲界有情所以縶在惡趣¶

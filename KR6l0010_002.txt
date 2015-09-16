@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:59.882931
+#+DATE: 2015-08-30 20:49:28.551963
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_002-0005b> ¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第二¶
+《阿毘達磨大毘婆沙論》卷第二¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-1雜蘊
-:PROPERTIES:
-:head: 雜蘊第一中世第一法納息第一之一
-:END:
-¶
+雜蘊第一中世第一法納息第一之一¶
 
 云何世第一法。如是等章及解章義既領會¶
 已。次應廣釋。問何故作此論。答為欲分別¶

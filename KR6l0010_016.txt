@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.291323
+#+DATE: 2015-08-30 20:49:28.963824
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_016-0077a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第十六¶
+《阿毘達磨大毘婆沙論》卷第十六¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -83,7 +82,7 @@
 訶責鄔陀夷等。宜捨置者。如置無衣迦葉¶
 波等。如佛告彼婆羅門言。今非其時未可¶
 答汝。宜因他者。如佛為五苾芻轉正法¶
-輪。爾時八萬諸天皆得聖道。佛為頻毘娑¶
+輪。爾時八萬諸天皆得聖道。佛為頻毘婆¶
 羅王說法。爾時亦有八萬諸天。及摩揭陀九¶
 萬二千人皆得聖道。佛為帝釋說法。爾時¶
 亦有八萬諸天得入聖道。佛為羅怙羅說¶

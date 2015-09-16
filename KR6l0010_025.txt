@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.568204
+#+DATE: 2015-08-30 20:49:29.249499
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_025-0126b> 
 #+PROPERTY: JUAN 25
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第二十¶
+《阿毘達磨大毘婆沙論》卷第二十¶
 五¶
 ¶
 五百大阿羅漢等造¶

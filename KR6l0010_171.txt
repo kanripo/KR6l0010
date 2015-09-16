@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.169233
+#+DATE: 2015-08-30 20:49:33.859101
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_171-0859c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 171
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 七十一¶
 ¶
 五百大阿羅漢等造¶
@@ -23,8 +22,7 @@
 起欲界梵世纏退時。若無色界歿生欲界梵¶
 世時。問何故復作此論。答前雖明得捨。而¶
 未分別漸頓。今欲顯示漸頓差別。又復前¶
-以味等三種相對分別。今欲於中唯明自¶
-類。故作斯論。頓謂俱時。漸謂先後。此中顯¶
+以味等三種相對分別。今欲於中唯明自類。故作斯論。頓謂俱時。漸謂先後。此中顯¶
 味相應四靜慮於二時頓得。謂退時生時。退
 <pb:KR6l0010_T_171-0860a>¶
 者從色愛盡。生者從無色歿。彼起欲界梵¶

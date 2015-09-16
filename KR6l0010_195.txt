@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:06.021601
+#+DATE: 2015-08-30 20:49:34.626932
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_195-0973b> 
 #+PROPERTY: JUAN 195
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 九十五¶
 ¶
 五百大阿羅漢等造¶
@@ -133,10 +132,7 @@
 應言攝在初明品中。若說初明當知已說¶
 彼聚。諸法明無明義廣說如雜蘊緣起納息。¶
 
-:PROPERTIES:
-:head: 見蘊第八中想納息第三之一
-:END:
-¶
+見蘊第八中想納息第三之一¶
 
 諸法無常想生彼法無常想相應耶。如是等¶
 章及解章義既領會已。應廣分別。問何故作¶

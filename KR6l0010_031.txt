@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.768572
+#+DATE: 2015-08-30 20:49:29.416708
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0010_T_031-0158a> ¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS T
+#+PROPERTY: LASTPB <pb:KR6l0010_T_031-0158a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 31
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第三十¶
+《阿毘達磨大毘婆沙論》卷第三十¶
 一¶
 ¶
 五百大阿羅漢等造¶
@@ -152,7 +151,7 @@
 <pb:KR6l0010_T_031-0159c>¶
 於一切處。捨施一切所愛身財及妻子等。濟¶
 諸眾生匱乏苦難。具足受持清淨禁戒寧捨¶
-身命終無毀犯。打罵𣣋辱割截身支乃¶
+身命終無毀犯。打罵[夌*欠]割截身支乃¶
 至斷命曾無嗔忿。精進苦行未嘗暫息。恒¶
 居寂靜專修靜慮。為勝慧故求法無怠。¶
 如是福德智慧資糧大價圓滿乃得如是救¶

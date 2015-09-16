@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:06.053526
+#+DATE: 2015-08-30 20:49:34.656434
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_196-0978c> 
 #+PROPERTY: JUAN 196
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 九十六¶
 ¶
 五百大阿羅漢等造¶
@@ -172,10 +171,7 @@
 受心不相應法。及意觸等起想受心不相應¶
 法。餘法攝如前說。¶
 
-:PROPERTIES:
-:head: 見蘊第八中智納息第四之一
-:END:
-¶
+見蘊第八中智納息第四之一¶
 
 若事能通達彼事能遍知耶。如是等章及解¶
 章義。既領會已次應廣釋。問何故作此論。¶

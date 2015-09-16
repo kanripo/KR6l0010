@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.257945
+#+DATE: 2015-08-30 20:49:31.981229
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_114-0589c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 114
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 一十四¶
 ¶
 五百大阿羅漢等造¶
@@ -316,7 +315,7 @@
 醉以酒。竊其戶鑰共往其家。遙見其婦端¶
 嚴無比如帝釋妃。於是眾人深生讚仰。因¶
 相謂曰。比不示人誠由於此。則馳園所¶
-共謝其夫并慶讚之。其人慚𧹞謂相譏弄。¶
+共謝其夫并慶讚之。其人慚[赤*皮]謂相譏弄。¶
 及還見之深生疑怪。問言。聖女為是幻術。¶
 為鬼魅耶。我婦安在。其妻具以上事答之。¶
 於是其夫得未曾有歸依三寶。如是善業。¶

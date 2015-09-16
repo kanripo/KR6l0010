@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.565331
+#+DATE: 2015-08-30 20:49:33.273040
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_153-0777c> 
 #+PROPERTY: JUAN 153
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 五十三¶
 ¶
 五百大阿羅漢等造¶
@@ -151,7 +150,7 @@
 座。何緣捨置曾不呵止。世尊爾時呵責是¶
 已。便入靜室宴寂而住。問鄔陀夷有過故。¶
 世尊呵之。彼阿難陀何過被責。答鄔陀夷是¶
-阿難陀共住弟子。故佛責以不善教誨。復¶
+阿難陀共住第子。故佛責以不善教誨。復¶
 次鄔陀夷是阿難陀攝徒眾者。故佛訶其不¶
 如法告示。復次尊者阿難陀是佛攝徒眾者。¶
 故佛責曰。汝何不知如法說者。非法說者。¶

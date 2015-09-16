@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.842138
+#+DATE: 2015-08-30 20:49:33.540197
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0010_T_161-0814c> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 161
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 六十一¶
 ¶
 五百大阿羅漢等造¶
@@ -385,7 +384,6 @@
 謂極光淨歿生欲界及梵世時。及起下地煩¶
 惱。退第二靜慮時。第四句者。謂除前相。於¶
 餘定隨其所應。亦應作此問答分別。¶
-《說一切有部發智大毘婆沙論》卷第一百六¶
-十一
+《說一切有部發智大毘婆沙論》卷第一百六十一
 <pb:KR6l0010_T_161-0819a>¶
 
