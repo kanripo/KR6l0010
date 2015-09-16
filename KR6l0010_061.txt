@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.651454
+#+DATE: 2015-08-30 20:49:21.891754
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_061-0313b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 61
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第六十¶
+《阿毘達磨大毘婆沙論》卷第六十¶
 一¶
 ¶
 五百大阿羅漢等造¶
@@ -433,7 +432,7 @@
 未還得有命終理。預流果先廣加行者。謂¶
 彼先求解脫果故。精勤修習惠施淨戒。不¶
 淨觀持息念念住。聞所成慧。思所成慧。修所¶
-成慧。及𤏙頂忍世第一法。并見道中十五心¶
+成慧。及[火*(而/而)]頂忍世第一法。并見道中十五心¶
 頃。即此總名安足堅固。有作是說。從初乃¶
 至世第一法名廣加行。見道十五心名安足¶
 堅固。一來果先廣加行者。謂即前說及離欲¶

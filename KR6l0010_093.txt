@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.609142
+#+DATE: 2015-08-30 20:49:22.863914
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_093-0479a> 
 #+PROPERTY: JUAN 93
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第九十¶
+《阿毘達磨大毘婆沙論》卷第九十¶
 三¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-3智蘊
-:PROPERTIES:
-:head: 智蘊第三中學支納息第一之一
-:END:
-¶
+智蘊第三中學支納息第一之一¶
 
 如世尊說。學行迹成就學八支。彼成就。過¶
 去幾。未來幾現在幾。如是等章及解章義既¶

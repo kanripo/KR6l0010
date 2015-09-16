@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.291323
+#+DATE: 2015-08-30 20:49:20.563843
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_016-0077a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第十六¶
+《阿毘達磨大毘婆沙論》卷第十六¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶

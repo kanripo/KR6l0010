@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.950266
+#+DATE: 2015-08-30 20:49:21.191759
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_037-0190a> 
 #+PROPERTY: JUAN 37
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第三十¶
+《阿毘達磨大毘婆沙論》卷第三十¶
 七¶
 ¶
 五百大阿羅漢等造¶
@@ -185,8 +184,8 @@
 或有生疑離惛沈無睡眠。離睡眠無惛¶
 沈。欲令此疑得決定故。顯離惛沈有睡¶
 眠離睡眠有惛沈故作斯論。云何惛沈。答¶
-諸身重性。心重性。身不調柔。心不調柔。身𧄼¶
-瞢。心𧄼瞢身憒悶。心憒悶。心惛重性。是謂¶
+諸身重性。心重性。身不調柔。心不調柔。身[夢-夕+登]¶
+瞢。心[夢-夕+登]瞢身憒悶。心憒悶。心惛重性。是謂¶
 惛沈。此中論主於異名義得善巧故作種¶
 種說。文雖差別而體無異。身重性者顯五¶
 識相應惛沈。心重性者顯意識相應惛沈。由

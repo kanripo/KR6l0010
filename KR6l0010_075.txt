@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.065240
+#+DATE: 2015-08-30 20:49:22.317164
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_075-0386a> ¶¶
 #+PROPERTY: JUAN 75
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第七十¶
+《阿毘達磨大毘婆沙論》卷第七十¶
 五¶
 ¶
 五百大阿羅漢等造¶
@@ -192,7 +191,7 @@
 皮血肉即便壞盡。若以足行盡眾同分足¶
 皮血肉都無損壞。由此故知內分堅性有¶
 勝有劣。外分中堅性者。謂地山礫石塼瓦草¶
-木。螺蜯䗾蛤銅鐵金銀白鑞鉛錫末尼真珠¶
+木。螺蜯[韅-革+虫]蛤銅鐵金銀白鑞鉛錫末尼真珠¶
 珊瑚琥珀珂貝璧玉。帝青大青末羅羯多。杵¶
 藏石藏颯頗胝迦。及紅頗黎吠琉璃等所有¶
 堅性。此內外分種種堅性。以相同故略為¶

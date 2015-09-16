@@ -1,27 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.122090
+#+DATE: 2015-08-30 20:49:23.346102
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_109-0562a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 109
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 九¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 智蘊第三中七聖納息第五之一
-:END:
-¶
+智蘊第三中七聖納息第五之一¶
 
 隨信行乃至俱解脫。於八智幾成就。幾不成¶
 就。如是等章及解章義。既領會已次應廣¶

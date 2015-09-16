@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.715341
+#+DATE: 2015-08-30 20:49:21.955142
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_063-0324b> 
 #+PROPERTY: JUAN 63
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第六十¶
+《阿毘達磨大毘婆沙論》卷第六十¶
 三¶
 ¶
 五百大阿羅漢等造¶
@@ -288,10 +287,7 @@
 斷對治故。
 <pb:KR6l0010_T_063-0327b>¶
 
-:PROPERTIES:
-:head: 結蘊第二中有情納息第三之一
-:END:
-¶
+結蘊第二中有情納息第三之一¶
 
 三界各有二部結謂見修所斷。如是等章及¶
 解章義既領會已。次應廣釋。問何故作此¶

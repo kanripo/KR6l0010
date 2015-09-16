@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.635509
+#+DATE: 2015-08-30 20:49:22.895652
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_094-0484a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 94
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第九十¶
+《阿毘達磨大毘婆沙論》卷第九十¶
 四¶
 ¶
 五百大阿羅漢等造¶
@@ -86,7 +85,7 @@
 
 如契經說。有四種行。一不堪忍行。二堪忍¶
 行。三調伏行。四寂靜行。云何不堪忍行。謂不¶
-堪忍寒熱飢渴。蚊䗈風曝蛇蝎惡觸。惡人侵¶
+堪忍寒熱飢渴。蚊[虫*盲]風曝蛇蝎惡觸。惡人侵¶
 惱非理語言。身中所生種種苦痛。於此等事¶
 不能堪忍。是名不堪忍行。云何堪忍行。謂¶
 能堪忍如前所說寒熱等事。是名堪忍行。云¶

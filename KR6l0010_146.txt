@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.343944
+#+DATE: 2015-08-30 20:49:24.491586
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0010_T_146-0747a> 
 #+PROPERTY: JUAN 146
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 四十六¶
 ¶
 五百大阿羅漢等造¶
@@ -125,7 +124,7 @@
 生者。謂住不律儀。諸根住律儀者所起。彼¶
 根非住不律儀者所起。諸根住不律儀者¶
 所起。彼根非住律儀者所起。有說。此法者。¶
-謂不缺根。異生者。謂缺根。如扇𢮎半擇迦無¶
+謂不缺根。異生者。謂缺根。如扇[打-丁+虎]半擇迦無¶
 形二形等。諸根不缺根者所起。彼根非缺根¶
 者所起。諸根缺根者所起。彼根非不缺根者¶
 所起。有說此法者。謂不斷善根。異生者。謂¶
