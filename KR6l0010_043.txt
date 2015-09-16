@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.120570
+#+DATE: 2015-08-30 20:48:27.602690
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_043-0221a> 
 #+PROPERTY: JUAN 43
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第四十¶
+《阿毘達磨大毘婆沙論》卷第四十¶
 三¶
 ¶
 五百大阿羅漢等造¶
@@ -445,12 +444,12 @@
 
 云何自謂卑而起慢乃至廣說。問何故作¶
 此論。答欲令疑者得決定故。謂有生疑¶
-自高𣣋物可名為慢。自卑尊他應不名
+自高[夌*欠]物可名為慢。自卑尊他應不名
 <pb:KR6l0010_T_043-0225c>¶
 慢。為令彼疑得決定故顯有卑慢自卑¶
 尊他故作斯論。云何自謂卑而起慢耶。答¶
 如有一類見他勝己種姓族類財位伎藝¶
-及田宅等作是念言。彼少勝我我少劣彼。¶
+及田宅等作是念言。彼多勝我我少劣彼。¶
 然劣於他多百千倍。由此起慢已慢當慢¶
 心舉恃心自取。是名自謂卑而起慢此中¶
 種謂剎帝利婆羅門等。姓謂迦葉波喬答摩¶

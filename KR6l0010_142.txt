@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.187162
+#+DATE: 2015-08-30 20:48:30.803759
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0010_T_142-0728c> ¶
+#+PROPERTY: WITNESS T@NANZANG
+#+PROPERTY: LASTPB <pb:KR6l0010_T_142-0728c> 
 #+PROPERTY: JUAN 142
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 四十二¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-6根蘊
-:PROPERTIES:
-:head: 根蘊第六中根納息第一之一
-:END:
-¶
+根蘊第六中根納息第一之一¶
 
 二十二根。眼根耳根鼻根舌根身根女根男¶
 根命根意根樂根苦根喜根憂根捨根信根精¶
@@ -68,7 +63,7 @@
 聲。名聖修根。問何故彼名波羅設利。答是¶
 所立名不應問立名所以。名隨假立不必¶
 皆有實義故。有說。此是彼姓。謂婆羅門有姓¶
-憍蹉。有姓筏蹉。有姓扇祑略。有姓憍陳那。¶
+憍蹉。有姓筏蹉。有姓扇祑略。有姓憍陣那。¶
 有姓婆羅墮闍。有姓波羅設利。有說。此是¶
 雜種。謂從剎帝利婆羅門生。名波羅設利。¶
 如從驢馬所生名騾。如是說者。此是彼¶

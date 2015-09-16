@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.281379
+#+DATE: 2015-08-30 20:48:27.848490
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_048-0247a> 
 #+PROPERTY: JUAN 48
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第四十¶
+《阿毘達磨大毘婆沙論》卷第四十¶
 八¶
 ¶
 五百大阿羅漢等造¶
@@ -34,8 +33,7 @@
 騰注義是瀑流義者。謂諸煩惱等騰注有¶
 情令於諸界諸趣諸生生死流轉。墜溺義是¶
 瀑流義者。謂諸煩惱等墜溺有情令於諸¶
-界諸趣諸生生死流轉。問若墜溺等義是瀑¶
-流義者。順上分結應非瀑流。彼令有情趣¶
+界諸趣諸生生死流轉。問若墜溺等義是瀑流義者。順上分結應非瀑流。彼令有情趣¶
 上生故。答順上分義異瀑流義。謂依界地¶
 立順上分結。彼令有情趣上界地故。依解¶
 脫道立為瀑流。雖生有頂而令有情沈¶

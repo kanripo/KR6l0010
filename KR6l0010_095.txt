@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.670217
+#+DATE: 2015-08-30 20:48:29.240220
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_095-0489b> ¶¶¶¶¶
 #+PROPERTY: JUAN 95
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第九十¶
+《阿毘達磨大毘婆沙論》卷第九十¶
 五¶
 ¶
 五百大阿羅漢等造¶
@@ -100,7 +99,7 @@
 成慧者。謂於文義如理決擇。思所成慧者。
 <pb:KR6l0010_T_095-0490b>¶
 謂不淨觀持息念。及念住等。修所成慧者。謂¶
-𤏙頂忍世第一法。現觀邊世俗智。無量解脫¶
+[火*(而/而)]頂忍世第一法。現觀邊世俗智。無量解脫¶
 勝處遍處等。離染得者。謂靜慮無量無色解¶
 脫勝處遍處等。生得者。謂生彼地法爾所得¶
 善。無漏有二種。一學二無學。學謂學八智。¶

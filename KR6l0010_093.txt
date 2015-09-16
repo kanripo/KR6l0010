@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.609142
+#+DATE: 2015-08-30 20:48:29.175801
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_093-0479a> 
 #+PROPERTY: JUAN 93
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第九十¶
+《阿毘達磨大毘婆沙論》卷第九十¶
 三¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-3智蘊
-:PROPERTIES:
-:head: 智蘊第三中學支納息第一之一
-:END:
-¶
+智蘊第三中學支納息第一之一¶
 
 如世尊說。學行迹成就學八支。彼成就。過¶
 去幾。未來幾現在幾。如是等章及解章義既¶
@@ -84,7 +79,7 @@
 俱實有如貪無貪瞋無瞋癡無癡等近互相¶
 違故俱實有。復次若不成就非實有性應¶
 不施設煩惱斷法。所以者何。非聖道生斷¶
-諸煩惱。如刀斷物。如石磨香。然諸聖道¶
+諸煩惱。如持物者。如石磨香。然諸聖道¶
 現在前時。令諸煩惱成就得滅。亦令彼煩¶
 惱不成就得生。爾時說為斷諸煩惱。有餘¶
 復執道是無為。如分別論者。彼作是說。唯¶

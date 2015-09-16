@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.902703
+#+DATE: 2015-08-30 20:48:32.455497
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_192-0958b> ¶¶¶
 #+PROPERTY: JUAN 192
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 九十二¶
 ¶
 五百大阿羅漢等造¶
@@ -200,10 +199,7 @@
 以無有情非蘊成故。一切有情必有自地¶
 命根等故。¶
 
-:PROPERTIES:
-:head: 見蘊第八中三有納息第二之一
-:END:
-¶
+見蘊第八中三有納息第二之一¶
 
 諸捨欲有欲有相續。彼一切欲界法滅。欲
 <pb:KR6l0010_T_192-0960b>¶

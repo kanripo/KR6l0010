@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.184969
+#+DATE: 2015-08-30 20:48:28.744252
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_079-0406b> 
 #+PROPERTY: JUAN 79
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第七十¶
+《阿毘達磨大毘婆沙論》卷第七十¶
 九¶
 ¶
 五百大阿羅漢等造¶
@@ -461,7 +460,7 @@
 提。豈有聞思證菩提義。答菩薩由此聞思¶
 慧力。伏除一切四聖諦愚。由此定當證無¶
 上覺。故說由此證得菩提。如人先時濕皮¶
-覆面。後得除去以𣪺覆之。其障輕微可言¶
+覆面。後得除去以[縠-士+十]覆之。其障輕微可言¶
 無障。故此非說三無漏根。¶
 
 如契經說佛告苾芻。我於四聖諦三轉十¶

@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:00.676156
+#+DATE: 2015-08-30 20:48:27.166248
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_028-0142b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第二十¶
+《阿毘達磨大毘婆沙論》卷第二十¶
 八¶
 ¶
 五百大阿羅漢等造¶
@@ -44,8 +43,7 @@
 金剛喻定。問何故此道定偏增耶。答非想非¶
 非想處下下煩惱難斷難破極難越度。須堅¶
 固定為所依止。發大精進乃能除遣。譬如¶
-有人欲殺香象。先安其足後發武勇成¶
-其殺事。是故此道定用偏增。復次非想非非¶
+有人欲殺香象。先安其足後發武勇成其殺事。是故此道定用偏增。復次非想非非¶
 想處下下煩惱最極微細不明不顯難可覺¶
 知。須依勝定令心澄細方能除斷。如善射¶
 者欲射毛端。依巧便法令心澄細發箭¶

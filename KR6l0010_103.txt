@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.943732
+#+DATE: 2015-08-30 20:48:29.502660
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0010_T_103-0531a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 103
 ¶
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 三¶
 ¶
 五百大阿羅漢等造¶
@@ -36,7 +35,7 @@
 赴其家供以飲食。離繫親子適入其家即¶
 便微笑。居士怪問。師離掉舉何為笑耶。彼¶
 遂答言。吾有妙德汝在家者豈盡知耶。於¶
-是居士慇懃問之。彼便告曰㮏末陀河側¶
+是居士慇懃問之。彼便告曰[木*柰]末陀河側¶
 有二獼猴。共鬪不已俱墮彼河為水漂溺。¶
 吾為是事愍而笑之。居士讚言。甚為希有。¶
 大師天眼清淨乃爾。食時既至居士念言。我¶
