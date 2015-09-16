@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿毘達磨大毘婆沙論
+#+DATE: 2015-08-30 20:48:08.240775
+#+PROPERTY: JUAN 0
