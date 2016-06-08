@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.395041
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 118
 ¶
 
- 《阿毘達磨大毘婆沙論》卷第一百¶
+ 
+** 7《阿毘達磨大毘婆沙論》卷第一百¶
 一十八¶
 ¶
 五百大阿羅漢等造¶

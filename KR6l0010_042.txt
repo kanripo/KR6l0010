@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.089877
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
@@ -10,7 +10,8 @@
 #+PROPERTY: LASTPB <pb:KR6l0010_T_042-0215b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 42
 
- 《阿毘達磨大毘婆沙論》卷第四十¶
+ 
+** 41《阿毘達磨大毘婆沙論》卷第四十¶
 二¶
 ¶
 五百大阿羅漢等造¶

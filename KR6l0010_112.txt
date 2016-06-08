@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.202457
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
@@ -17,7 +17,8 @@
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-4業蘊
+* 4業蘊
+** 1
 :PROPERTIES:
 :head: 業蘊第四中惡行納息第一之一
 :END:

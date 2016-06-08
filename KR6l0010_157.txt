@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.701310
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
@@ -18,7 +18,8 @@
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-7定蘊
+* 7定蘊
+** 1
 :PROPERTIES:
 :head: 定蘊第七中得納息第一之一
 :END:
