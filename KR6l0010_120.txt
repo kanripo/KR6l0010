@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.463101
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_120-0623b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 120
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 二十¶
 ¶
 五百大阿羅漢等造¶
@@ -329,9 +328,9 @@
 「　我夜生五子
 　隨生皆自食¶
 　晝生五亦然
-　雖盡而無飽
+　雖盡而無飽」
 #+END_VERSE
-」¶
+¶
 
 傍生人趣皆具四生。人卵生者。昔於此洲¶
 有商人。入海得一雌鶴。形色偉麗奇而悅¶

@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.395041
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_118-0612c> 
 #+PROPERTY: JUAN 118
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 一十八¶
 ¶
 五百大阿羅漢等造¶
@@ -397,10 +396,7 @@
 處異熟。謂色香味觸。異熟因果如雜蘊智納¶
 息中已廣說。¶
 
-:PROPERTIES:
-:head: 業蘊第四中害生納息第三之一
-:END:
-¶
+* 業蘊第四中害生納息第三之一¶
 
 頗有已害生殺生未滅耶。如是等章及解章¶
 義既領會已。次應廣釋。此中有非殺生以¶

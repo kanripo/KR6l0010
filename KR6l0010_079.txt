@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.184969
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_079-0406b> 
 #+PROPERTY: JUAN 79
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第七十¶
+《阿毘達磨大毘婆沙論》卷第七十¶
 九¶
 ¶
 五百大阿羅漢等造¶
@@ -368,9 +367,9 @@
 「　佛以一音演說法
 　眾生隨類各得解¶
 　皆謂世尊同其語
-　獨為我說種種義
+　獨為我說種種義」
 #+END_VERSE
-」¶
+¶
 
 一音者謂梵音。若至那人來在會坐。謂佛¶
 為說至那音義。如是礫迦葉筏那達刺陀末¶

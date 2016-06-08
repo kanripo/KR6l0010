@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.032493
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_106-0546c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 106
 ¶
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 六¶
 ¶
 五百大阿羅漢等造¶
@@ -99,8 +98,7 @@
 無漏慧重決擇者皆名為智。唯無漏忍於四¶
 聖諦。未重決擇故不名智。復有說者。由¶
 二義故說名為智。謂證知義。及了知義。證¶
-知義者。謂證知苦乃至證知道故名智。¶
-了知義者。謂了知自相續了知他相續故¶
+知義者。謂證知苦乃至證知道故名智。了知義者。謂了知自相續了知他相續故¶
 名智。¶
 
 已總說諸智所以一一所以今當說。問何故¶

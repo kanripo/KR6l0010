@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.157387
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_141-0724a> 
 #+PROPERTY: JUAN 141
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 四十一¶
 ¶
 五百大阿羅漢等造¶
@@ -450,7 +449,6 @@
 異。答若修神境所引光明。或化所為。或自性¶
 有。若修天眼所引光明。非化所為唯自性¶
 有。¶
-《說一切有部發智大毘婆沙論》卷第一百四
+《說一切有部發智大毘婆沙論》卷第一百四十一
 <pb:KR6l0010_T_141-0728c>¶
-十一¶
 

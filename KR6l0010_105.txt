@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.003248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_105-0541c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 105
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 五¶
 ¶
 五百大阿羅漢等造¶
@@ -131,9 +130,9 @@
 「　若能伏城邑
 　刺罵縛害等¶
 　苦樂不能動
-　如山名苾芻
+　如山名苾芻」
 #+END_VERSE
-」¶
+¶
 
 有情想者。顯初靜慮。所以者何。初靜慮地猶¶
 有王臣尊卑差別有情眾故。阿練若想者。¶
@@ -439,10 +438,7 @@
 得。雖是彼因而非勝進故不名修。不由¶
 現在得修彼未來。故但由退故彼得現前。¶
 
-:PROPERTIES:
-:head: 智蘊第三中修智納息第四之一
-:END:
-¶
+* 智蘊第三中修智納息第四之一¶
 
 有八智。謂法智乃至道智。如是等章及解章¶
 義既領會已。次應廣釋。問何故尊者依此八¶

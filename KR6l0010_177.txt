@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.356270
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_177-0887b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 177
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 七十七¶
 ¶
 五百大阿羅漢等造¶
@@ -302,9 +301,9 @@
 「　天地此界多聞室
 　逝宮天處十方無¶
 　丈夫牛王大沙門
-　尋地山林遍無等
+　尋地山林遍無等」
 #+END_VERSE
-」¶
+¶
 
 如是讚已便超九劫。於慈氏前得無上覺。¶
 問近佛地菩薩必於名句文身。得未曾得巧¶

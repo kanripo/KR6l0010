@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.631881
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_155-0786c> ¶¶¶¶
 #+PROPERTY: JUAN 155
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 五十五¶
 ¶
 五百大阿羅漢等造¶
@@ -79,10 +78,7 @@
 昧劣如捨受者。於十時中無有昧劣。如¶
 死及生時者。故住捨受命終結生。¶
 
-:PROPERTIES:
-:head: 根蘊第六中一心納息第五之一
-:END:
-¶
+* 根蘊第六中一心納息第五之一¶
 
 諸法與心一起一住一滅。彼法與心相應耶。¶
 如是等章。及解章義既領會已。當廣分別。¶

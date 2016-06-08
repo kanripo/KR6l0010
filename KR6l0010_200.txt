@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:06.208033
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0010_T_200-0998c> ¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6l0010_T_200-0998c> 
 #+PROPERTY: JUAN 200
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第二百¶
+《阿毘達磨大毘婆沙論》卷第二百¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
@@ -499,7 +498,7 @@
 　其中對法毘婆沙
 　具獲本文今譯訖¶
 　願此等潤諸含識
-　速證圓寂妙菩提
+　速證圓寂妙菩提」
 #+END_VERSE
-」¶
+¶
 《說一切有部發智大毘婆沙論》卷第二百

@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.600645
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_059-0303a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 59
 ¶
@@ -14,8 +14,7 @@
 ¶
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第五十¶
+《阿毘達磨大毘婆沙論》卷第五十¶
 九¶
 ¶
 五百大阿羅漢等造¶
@@ -377,9 +376,9 @@
 「　有因故起愛
 　有因故起憎¶
 　世間無無因
-　而起愛憎者
+　而起愛憎者」
 #+END_VERSE
-」¶
+¶
 
 攝自性者。不待時因而有攝義。是究竟¶
 攝。不待時者。諸法無時不攝自性。以彼¶

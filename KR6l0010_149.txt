@@ -1,27 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.443766
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_149-0760a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 149
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 四十九¶
 ¶
 五百大阿羅漢等造¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 根蘊第六中觸納息第三之一
-:END:
-¶
+* 根蘊第六中觸納息第三之一¶
 
 有十六觸謂有對觸。增語觸。明觸。無明觸。¶
 非明非無明觸。愛觸。恚觸。順樂受觸。順苦受¶

@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.022535
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_137-0705c> 
 #+PROPERTY: JUAN 137
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 三十七¶
 ¶
 五百大阿羅漢等造¶
@@ -70,9 +69,9 @@
 「　諸有除色想
 　能除一切身¶
 　於內外法中
-　無有不見者
+　無有不見者」
 #+END_VERSE
-」¶
+¶
 
 眾義品中亦作是說。¶
 
@@ -80,9 +79,9 @@
 「　於想有想非即離
 　亦非無想非除想¶
 　如是平等除色想
-　無有染著彼因緣
+　無有染著彼因緣」
 #+END_VERSE
-」¶
+¶
 
 如是諸說義有何異。答此說能遣諸積集色
 <pb:KR6l0010_T_137-0706b>¶
@@ -359,10 +358,7 @@
 名處。謂唯異生生處精勤果。中無想天為¶
 後邊。一切生處精勤果中。有頂天為後邊。¶
 
-:PROPERTIES:
-:head: 大種蘊第五中執受納息第四之一
-:END:
-¶
+* 大種蘊第五中執受納息第四之一¶
 
 有執受大種。與有執受大種。為幾緣。如是¶
 等章。及解章義既領會已。應廣分別。問何故¶

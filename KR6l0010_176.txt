@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.324594
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_176-0883a> 
 #+PROPERTY: JUAN 176
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 七十六¶
 ¶
 五百大阿羅漢等造¶
@@ -323,9 +322,9 @@
 「　永斷五煩惱
 　學滿無引法¶
 　得自在定根
-　是人名自住
+　是人名自住」
 #+END_VERSE
-」¶
+¶
 
 五煩惱者。謂五蓋及五順下分結。不還已盡¶
 故。言永斷。學滿者。謂果滿根滿非等至滿。¶

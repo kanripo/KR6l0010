@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.322160
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_116-0601c> 
 #+PROPERTY: JUAN 116
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 一十六¶
 ¶
 五百大阿羅漢等造¶
@@ -30,9 +29,9 @@
 「　諸有破僧人
 　破壞和合僧¶
 　生無間地獄
-　壽量經劫住
+　壽量經劫住」
 #+END_VERSE
-」¶
+¶
 
 尊者世友作如是說。減一劫住亦名一劫。¶
 如世間人於減一日。住持所作亦名直日。¶
@@ -305,10 +304,7 @@
 <pb:KR6l0010_T_116-0604c>¶
 故。但說惡行妙行最大果非餘。¶
 
-:PROPERTIES:
-:head: 業蘊第四中邪語納息第二之一
-:END:
-¶
+* 業蘊第四中邪語納息第二之一¶
 
 諸邪語彼邪命耶。設邪命彼邪語耶。如是等¶
 章及解章義既領會已。次應廣釋。問何故作¶

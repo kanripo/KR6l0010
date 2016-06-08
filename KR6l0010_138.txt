@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.053306
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_138-0710b> ¶¶¶¶
 #+PROPERTY: JUAN 138
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 三十八¶
 ¶
 五百大阿羅漢等造¶
@@ -209,9 +208,9 @@
 「　有執受苦蘊
 　便引生眾苦¶
 　謂生苦老苦
-　病苦及死苦
+　病苦及死苦」
 #+END_VERSE
-」¶
+¶
 
 有經復說。無聞異生長夜修治有執受我餘¶
 經復說。況於此身暫停住中有執受。品類¶

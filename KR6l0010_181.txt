@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:05.500586
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_181-0906c> 
 #+PROPERTY: JUAN 181
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 八十一¶
 ¶
 五百大阿羅漢等造¶
@@ -297,9 +296,9 @@
 「　諸有伏愛憎
 　常居邊臥具¶
 　恒住不放逸
-　拔有貪隨眠
+　拔有貪隨眠」
 #+END_VERSE
-」¶
+¶
 
 問此伽他中為辯何義答愛謂貪愛。憎謂憎¶
 恚。佛聖弟子若伏此二。居邊臥具住不放¶
@@ -451,6 +450,5 @@
 <pb:KR6l0010_T_181-0911b>¶
 作無障因。故言般羅底木叉為諸善法首¶
 上首等。¶
-《說一切有部發智大毘婆沙論》卷第一百八¶
-十一¶
+《說一切有部發智大毘婆沙論》卷第一百八十一¶
 

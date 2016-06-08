@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.127126
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_077-0396a> ¶¶¶¶
 #+PROPERTY: JUAN 77
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第七十¶
+《阿毘達磨大毘婆沙論》卷第七十¶
 七¶
 ¶
 五百大阿羅漢等造¶
@@ -330,9 +329,9 @@
 「　一諦無有二
 　眾生於此疑¶
 　別說種種諦
-　我說無沙門
+　我說無沙門」
 #+END_VERSE
-」¶
+¶
 
 此頌意言唯有一諦。外道猶豫別說有多。¶
 佛說彼法中無沙門道果。沙門道果依一諦¶

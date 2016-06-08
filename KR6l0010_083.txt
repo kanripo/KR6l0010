@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.309918
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_083-0427a> 
 #+PROPERTY: JUAN 83
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第八十¶
+《阿毘達磨大毘婆沙論》卷第八十¶
 三¶
 ¶
 五百大阿羅漢等造¶
@@ -199,9 +198,9 @@
 「　鬼神以惡意
 　欲來趣向人¶
 　雖未觸害身
-　而已生苦怖
+　而已生苦怖」
 #+END_VERSE
-」¶
+¶
 
 惡意向人即令苦怖。佛心慈蔭寧不得樂。
 <pb:KR6l0010_T_083-0429a>¶

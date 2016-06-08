@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.749236
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_129-0670b> ¶¶¶¶¶
 #+PROPERTY: JUAN 129
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 二十九¶
 ¶
 五百大阿羅漢等造¶
@@ -84,9 +83,9 @@
 「　四大與短長
 　細麁淨不淨¶
 　於何處永棄
-　名色滅無餘
+　名色滅無餘」
 #+END_VERSE
-」¶
+¶
 
 此問隨順應如是答。¶
 
@@ -98,9 +97,9 @@
 　四大與短長
 　細麁淨不淨¶
 　於是處永棄
-　名色滅無餘
+　名色滅無餘」
 #+END_VERSE
-」¶
+¶
 
 有說。此中佛說聖道。世尊於此說識聲故。¶
 有說。此中佛說涅槃。以說無邊識不見故。¶

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.551811
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_123-0640b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 123
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 二十三¶
 ¶
 五百大阿羅漢等造¶
@@ -54,8 +53,7 @@
 
 頗有業學學果耶。答有。謂等流果。頗有業¶
 學無學果耶。答有。謂等流果。頗有業學非¶
-學非無學果耶。答有。謂離繫果。頗有業無¶
-學果耶。答有。謂等流果。頗有業無學無學
+學非無學果耶。答有。謂離繫果。頗有業無學果耶。答有。謂等流果。頗有業無學無學
 <pb:KR6l0010_T_123-0641a>¶
 學果耶。答無。頗有業無學非學非無學果¶
 耶。答無。問時解脫阿羅漢練根作不動。第九¶

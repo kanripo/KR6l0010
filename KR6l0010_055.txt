@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:01.478287
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_055-0283a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 55
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第五十¶
+《阿毘達磨大毘婆沙論》卷第五十¶
 五¶
 ¶
 五百大阿羅漢等造¶
@@ -83,8 +82,7 @@
 令我滅而得遂者。復次為欲開示迷緣¶
 起者。緣起正理故作斯論。謂或有執。唯有¶
 無明緣行乃至生緣老死是緣起法。為令¶
-彼迷得開解故。顯有為法皆是緣起。眾世¶
-所言。此中應說。復次勿為止他顯己宗¶
+彼迷得開解故。顯有為法皆是緣起。眾世所言。此中應說。復次勿為止他顯己宗¶
 義。但欲開示緣起正理令他得解故作斯¶
 論。¶
 

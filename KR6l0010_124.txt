@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.577162
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_124-0645c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 124
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 二十四¶
 ¶
 五百大阿羅漢等造¶
@@ -274,9 +273,9 @@
 「　六齋神變月
 　受持八戒齋¶
 　彼功德殊勝
-　則為與我等
+　則為與我等」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊。告苾芻眾。此天帝釋所說伽他違¶
 於道理。若阿羅漢可作是說。所以者何。此
@@ -327,10 +326,7 @@
 故。由此近住具有八支。而於五增三。於¶
 十減一。合二為一故。開一為二故。¶
 
-:PROPERTIES:
-:head: 業蘊第四中自業納息第五之一
-:END:
-¶
+* 業蘊第四中自業納息第五之一¶
 
 云何自業。自業是何義。如是等章。及解章¶
 義既領會已。次應廣釋。問何故作此論。答¶

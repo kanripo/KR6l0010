@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:03.901876
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_133-0688a> 
 #+PROPERTY: JUAN 133
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 三十三¶
 ¶
 五百大阿羅漢等造¶
@@ -80,7 +79,7 @@
 大種。若色欲界繫。欲界繫大種所造。若色不¶
 繫。欲界繫大種所造。¶
 
-諸色過去。彼色一切過去大種所造耶。答¶
+諸色過去＋（過去）【宋】【元】過去過去。彼色一切過去大種所造耶。答¶
 應作四句。有色過去非過去大種所造。謂¶
 過去大種。所以如前。有色過去大種所造。¶
 非過去。謂色未來現在過去大種所造。此復¶
@@ -146,9 +145,9 @@
 「　赤焰多疾疫
 　黃兵緣飢饉¶
 　綵豐青退減
-　白黑主興滅
+　白黑主興滅」
 #+END_VERSE
-」¶
+¶
 
 火界云何。答煖性觸。此是勝義能造火體。風¶
 云何。答即風界。風界云何。答動性觸。問何故¶

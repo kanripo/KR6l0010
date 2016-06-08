@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:04.875596
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_162-0819a> 
 #+PROPERTY: JUAN 162
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第一百¶
+《阿毘達磨大毘婆沙論》卷第一百¶
 六十二¶
 ¶
 五百大阿羅漢等造¶
@@ -233,10 +232,7 @@
 俗智。及不善善有漏世俗智異熟果。墮不生¶
 者。餘無漏智無異熟故此中不說。¶
 
-:PROPERTIES:
-:head: 定蘊第七中緣納息第二之一
-:END:
-¶
+* 定蘊第七中緣納息第二之一¶
 
 有八等至。謂四靜慮。四無色。有三等至。謂¶
 味想應淨無漏。此中前七各具三種。第八唯¶

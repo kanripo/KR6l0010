@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:48:02.282362
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:22
 #+TITLE: 阿毘達磨大毘婆沙論
 #+PROPERTY: CBETA_ID T27n1545
 #+PROPERTY: ID KR6l0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 27, No. 1545
 #+PROPERTY: VOL 27
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0010_T_082-0421c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 82
 ¶
 ¶
-
- 《阿毘達磨大毘婆沙論》卷第八十¶
+《阿毘達磨大毘婆沙論》卷第八十¶
 二¶
 ¶
 五百大阿羅漢等造¶
@@ -293,9 +292,9 @@
 　福終無損失
 　如堅固伏藏¶
 　以決定能招
-　此世他世樂
+　此世他世樂」
 #+END_VERSE
-」¶
+¶
 
 問非福亦非火所燒等。此中何故唯說福耶。¶
 答非福雖非火所燒等。而非福果為火等¶
